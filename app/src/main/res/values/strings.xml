@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="chat">chat</string>
+    <string name="user">User</string>
+    <string name="action_sign_in_short">password</string>
+
+</resources>
